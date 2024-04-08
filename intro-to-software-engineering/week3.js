@@ -1,0 +1,3 @@
+// interpreted programming language: JavaScript are languages that are not compiled but interpreted.
+//compiled programming language: C, C++, Java, etc. are compiled languages.
+// The difference between compiled and interpreted languages is that the compiled language is first converted into machine code and then executed by the computer, while the interpreted language is first converted into an intermediate code and then executed by the interpreter.
